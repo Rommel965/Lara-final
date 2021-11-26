@@ -31,7 +31,7 @@
    
     </div>
     <div class="col-sm">
-    <a href="pagina2.php"><button class="btn btn-primary" type="button">Nuevo</button>
+    <a href="pagina2.blade.php"><button class="btn btn-primary" type="button">Nuevo</button>
     </div>
   </div>
 </div>
