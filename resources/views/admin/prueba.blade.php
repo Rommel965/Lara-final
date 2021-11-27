@@ -20,18 +20,11 @@
             <select name="" id="">
                 <option selected disabled="">Carrera</option>
                 <option value="">Ing. Sistemas</option>
-                <option value="">Ing. Informática</option>
-                <option value="">Ing. Materiales</option>
-                <option value="">Ing. Mecatrónica</option>
-                <option value="">Ing. Bioquímica</option>
-                <option value="">Ing. Innovación agrícola</option>
-                <option value="">Lic. Administración</option>
-                <option value="">Lic. Industrial</option>
             </select>
    
     </div>
     <div class="col-sm">
-    <a href="contacto"><button class="btn btn-primary" type="button">Nuevo</button>
+    <a href="pagina2.blade.php"><button class="btn btn-primary" type="button">Nuevo</button>
     </div>
   </div>
 </div>
